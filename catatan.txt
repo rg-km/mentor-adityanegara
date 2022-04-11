@@ -2,4 +2,4 @@ A) Instalasi
     : 1) Unduk binary 64 bit
       2) Ubah nama binar menjadi grader-cli.exe
       3) Buat folder untuk menyimpan binary yaitu C:\Graader\
-      4) 
+      4) test
