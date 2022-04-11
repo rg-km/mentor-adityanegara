@@ -1,5 +1,23 @@
 A) Instalasi
     : 1) Unduk binary 64 bit
       2) Ubah nama binar menjadi grader-cli.exe
-      3) Buat folder untuk menyimpan binary yaitu C:\Graader\
-      4) test
+      3) Buat folder untuk menyimpan binary yaitu C:\Grader\
+      4) Membuat setting environment variable
+        4.1) ketikan environment variable pada search windows
+        4.2) pilih path
+        4.3) ketik edit
+        4.4) ketik new
+        4.5) tambhahkan path dari grader C:\Grader
+      5) Jalankan grader-cli -h
+
+B) Inisiasi
+  : 1) Clone repository tugas anda
+    2) Buka command prompt di tempat repository yang di Clone
+    3) ketikan 'grader-cli init'
+    4) masukan email
+    5) masukan password
+    6) url repository rg-km
+    7) github personal access token
+
+C) Update
+  : grader-cli update
